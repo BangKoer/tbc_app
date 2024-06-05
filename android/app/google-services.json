@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614177818467",
+    "project_id": "tbc-free-b297d",
+    "storage_bucket": "tbc-free-b297d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614177818467:android:be98d9dbeefc795fc0f556",
+        "android_client_info": {
+          "package_name": "com.example.tbc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCllxvlsS5-8Xa1MKoydk_t1LJ6lQekn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
